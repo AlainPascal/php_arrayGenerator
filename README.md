@@ -5,7 +5,7 @@ php_arrayGenerator is a php program that generates a size defined array of rando
 
 ## Installation
 
-1. Ensure a local server like [WampServer](https://www.wampserver.com/en/) or [XAMPP](hhttps://www.apachefriends.org/download.html) or [MAMP](https://www.mamp.info/en/downloads/) or the LAMP stack is installed and running
+1. Ensure a local server like [WampServer](https://www.wampserver.com/en/) or [XAMPP](https://www.apachefriends.org/download.html) or [MAMP](https://www.mamp.info/en/downloads/) or the LAMP stack is installed and running
 
 2. Download and install the [Git](https://git-scm.com/downloads) version control system
 
